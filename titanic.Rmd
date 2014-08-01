@@ -1,0 +1,4 @@
+Kaggle competition for titanic survivors
+========================================
+
+
